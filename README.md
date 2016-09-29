@@ -1,2 +1,2 @@
 # workshops
-Materials from workshops given at conferences
+Materials from workshops run at conferences.
