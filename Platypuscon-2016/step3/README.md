@@ -6,4 +6,5 @@ Modify the receive code
 Run the command line programs
 -----------------------------
 $ psk31_tx_no-gfx.py test   (passing the message "test")
+
 $ psk31_rx_no-gfx.py 
